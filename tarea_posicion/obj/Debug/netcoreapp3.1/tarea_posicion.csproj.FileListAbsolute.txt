@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\tarea_posicion\tarea_posicion\bin\Debug\netcoreapp3.1\tarea_posicion.exe
+C:\Users\PC\source\repos\tarea_posicion\tarea_posicion\bin\Debug\netcoreapp3.1\tarea_posicion.deps.json
+C:\Users\PC\source\repos\tarea_posicion\tarea_posicion\bin\Debug\netcoreapp3.1\tarea_posicion.runtimeconfig.json
+C:\Users\PC\source\repos\tarea_posicion\tarea_posicion\bin\Debug\netcoreapp3.1\tarea_posicion.runtimeconfig.dev.json
+C:\Users\PC\source\repos\tarea_posicion\tarea_posicion\bin\Debug\netcoreapp3.1\tarea_posicion.dll
+C:\Users\PC\source\repos\tarea_posicion\tarea_posicion\bin\Debug\netcoreapp3.1\tarea_posicion.pdb
+C:\Users\PC\source\repos\tarea_posicion\tarea_posicion\obj\Debug\netcoreapp3.1\tarea_posicion.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\tarea_posicion\tarea_posicion\obj\Debug\netcoreapp3.1\tarea_posicion.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\tarea_posicion\tarea_posicion\obj\Debug\netcoreapp3.1\tarea_posicion.AssemblyInfo.cs
+C:\Users\PC\source\repos\tarea_posicion\tarea_posicion\obj\Debug\netcoreapp3.1\tarea_posicion.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\tarea_posicion\tarea_posicion\obj\Debug\netcoreapp3.1\tarea_posicion.dll
+C:\Users\PC\source\repos\tarea_posicion\tarea_posicion\obj\Debug\netcoreapp3.1\tarea_posicion.pdb
+C:\Users\PC\source\repos\tarea_posicion\tarea_posicion\obj\Debug\netcoreapp3.1\tarea_posicion.genruntimeconfig.cache
